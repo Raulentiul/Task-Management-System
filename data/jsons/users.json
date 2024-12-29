@@ -1,0 +1,365 @@
+[
+    {
+        "user_id": 1,
+        "name": "Raul",
+        "surname": "Ungureanu",
+        "email": "2",
+        "password": "1",
+        "profile_image_path": "",
+        "projects": []
+    },
+    {
+        "user_id": 2,
+        "name": "Johns",
+        "surname": "Does",
+        "email": "1",
+        "password": "1",
+        "profile_image_path": "data/profile_images\\2_Johns_Does_1.png",
+        "projects": [
+            {
+                "project_id": 1,
+                "name": "Project 1",
+                "description": "This is the first dsadas",
+                "tasks": [
+                    {
+                        "task_id": 1,
+                        "name": "Task 1",
+                        "description": "This is the first task",
+                        "priority": "LOW",
+                        "status": "In progress",
+                        "_type": "DevTask",
+                        "language": "Python"
+                    },
+                    {
+                        "task_id": 3,
+                        "name": "Task 3",
+                        "description": "This task",
+                        "priority": "CRITICAL",
+                        "status": "Done",
+                        "_type": "DocTask",
+                        "document": "docker"
+                    },
+                    {
+                        "task_id": 4,
+                        "name": "task4",
+                        "description": "edwad",
+                        "priority": "MEDIUM",
+                        "status": "Done",
+                        "_type": "QATask",
+                        "test_type": "smth"
+                    },
+                    {
+                        "task_id": 6,
+                        "name": "task6",
+                        "description": "task6",
+                        "priority": "MEDIUM",
+                        "status": "Done",
+                        "_type": "DevTask",
+                        "language": "ruby"
+                    },
+                    {
+                        "task_id": 7,
+                        "name": "task7",
+                        "description": "dsaad",
+                        "priority": "ds",
+                        "status": "Not started",
+                        "_type": "DocTask",
+                        "document": "gfd"
+                    },
+                    {
+                        "task_id": 8,
+                        "name": "task8",
+                        "description": "desa",
+                        "priority": "dsa",
+                        "status": "Not started",
+                        "_type": "DocTask",
+                        "document": "gfd"
+                    },
+                    {
+                        "task_id": 9,
+                        "name": "task9",
+                        "description": "dasd",
+                        "priority": "MEDIUM",
+                        "status": "In progress",
+                        "_type": "QATask",
+                        "test_type": "fvcx"
+                    },
+                    {
+                        "task_id": 10,
+                        "name": "task10",
+                        "description": "dasd",
+                        "priority": "HIGH",
+                        "status": "Done",
+                        "_type": "QATask",
+                        "test_type": "smth"
+                    },
+                    {
+                        "task_id": 11,
+                        "name": "task11",
+                        "description": "dassd",
+                        "priority": "HIGH",
+                        "status": "In progress",
+                        "_type": "QATask",
+                        "test_type": "dsadas"
+                    }
+                ],
+                "deadline": "2024-12-31"
+            },
+            {
+                "project_id": 2,
+                "name": "Project 3",
+                "description": "idk",
+                "tasks": [],
+                "deadline": "2024-10-31"
+            },
+            {
+                "project_id": 2,
+                "name": "Project 3",
+                "description": "This is the first projectcxzmc zxkjc zxkj. ckz kjzbckjznzlczjkcbxzkbzcxkzcxczxj",
+                "tasks": [
+                    {
+                        "task_id": 1,
+                        "name": "Task 1",
+                        "description": "This is the first task",
+                        "priority": "LOW",
+                        "status": "In progress",
+                        "_type": "DevTask",
+                        "language": "c++"
+                    }
+                ],
+                "deadline": "2024-12-31"
+            },
+            {
+                "project_id": 3,
+                "name": "Project 4",
+                "description": "This is the first projectcxzmc zxkjc zxkj. ckz kjzbckjznzlczjkcbxzkbzcxkzcxczxj",
+                "tasks": [
+                    {
+                        "task_id": 1,
+                        "name": "Task 1",
+                        "description": "This is the first task",
+                        "priority": "CRITICAL",
+                        "status": "Not started",
+                        "language": "Python",
+                        "_type": "DevTask"
+                    }
+                ],
+                "deadline": "2024-12-31"
+            },
+            {
+                "project_id": 4,
+                "name": "Project 5",
+                "description": "This is the first projectcxzmc zxkjc zxkj. ckz kjzbckjznzlczjkcbxzkbzcxkzcxczxj",
+                "tasks": [
+                    {
+                        "task_id": 1,
+                        "name": "Task 1",
+                        "description": "This is the first task",
+                        "priority": "MEDIUM",
+                        "status": "Not started",
+                        "language": "Python",
+                        "_type": "DevTask"
+                    }
+                ],
+                "deadline": "2024-12-31"
+            },
+            {
+                "project_id": 6,
+                "name": "Project 7",
+                "description": "This is the first projectcxzmc zxkjc zxkj. ckz kjzbckjznzlczjkcbxzkbzcxkzcxczxj",
+                "tasks": [
+                    {
+                        "task_id": 1,
+                        "name": "Task 1",
+                        "description": "This is the first task",
+                        "priority": "LOW",
+                        "status": "In progress",
+                        "language": "Python",
+                        "_type": "DevTask"
+                    }
+                ],
+                "deadline": "2024-12-31"
+            },
+            {
+                "project_id": 7,
+                "name": "Project 8",
+                "description": "This is the first projectcxzmc zxkjc zxkj. ckz kjzbckjznzlczjkcbxzkbzcxkzcxczxj",
+                "tasks": [
+                    {
+                        "task_id": 1,
+                        "name": "Task 1",
+                        "description": "This is the first task",
+                        "priority": "CRITICAL",
+                        "status": "Not started",
+                        "language": "Python",
+                        "_type": "DevTask"
+                    }
+                ],
+                "deadline": "2024-12-31"
+            },
+            {
+                "project_id": 9,
+                "name": "idk what project",
+                "description": "dsadadas",
+                "tasks": [
+                    {
+                        "task_id": 12,
+                        "name": "task1dsa",
+                        "description": "dsadas",
+                        "priority": "MEDIUM",
+                        "status": "In progress",
+                        "_type": "DocTask",
+                        "document": "dasdsa"
+                    }
+                ],
+                "deadline": "fd"
+            }
+        ]
+    },
+    {
+        "user_id": 3,
+        "name": "Jane",
+        "surname": "Doe",
+        "email": "jane.doe@exmple.com",
+        "password": "0000",
+        "projects": [
+            {
+                "project_id": 1,
+                "name": "Project 4",
+                "description": "This is the fourth project",
+                "tasks": [
+                    {
+                        "task_id": 1,
+                        "name": "Task 4",
+                        "description": "This is the fourth task",
+                        "priority": "MEDIUM",
+                        "status": "Not started",
+                        "language": "Java",
+                        "_type": "DevTask"
+                    }
+                ],
+                "deadline": "2025-01-31"
+            },
+            {
+                "project_id": 2,
+                "name": "Project 2",
+                "description": "This is the second project",
+                "tasks": [
+                    {
+                        "task_id": 1,
+                        "name": "Task 2",
+                        "description": "This is the second task",
+                        "priority": "LOW",
+                        "status": "In progress",
+                        "test_type": "Smoke testing",
+                        "_type": "QATask"
+                    }
+                ],
+                "deadline": "2024-11-30"
+            }
+        ]
+    },
+    {
+        "user_id": 4,
+        "name": "Ungureanu",
+        "surname": "Alberto",
+        "email": "alberto@gmail.com",
+        "password": "12",
+        "profile_image_path": "",
+        "projects": [
+            {
+                "project_id": 1,
+                "name": "Project1",
+                "description": "test",
+                "tasks": [],
+                "deadline": "21213dfs"
+            }
+        ]
+    },
+    {
+        "user_id": 5,
+        "name": "Koszorus",
+        "surname": "Oana",
+        "email": "oana@gmail.com",
+        "password": "12",
+        "profile_image_path": "data/profile_images\\4_Koszorus_Oana_oana.png",
+        "projects": []
+    },
+    {
+        "user_id": 7,
+        "name": "Koszorus",
+        "surname": "Oana",
+        "email": "oana.koszorus@gmail.com",
+        "password": "1234",
+        "profile_image_path": "data/profile_images\\6_Koszorus_Oana_oana.koszorus.png",
+        "projects": [
+            {
+                "project_id": 1,
+                "name": "proiect app",
+                "description": "to do",
+                "tasks": [],
+                "deadline": "25-12-2024"
+            }
+        ]
+    },
+    {
+        "user_id": 8,
+        "name": "My",
+        "surname": "Name is",
+        "email": "9",
+        "password": "11",
+        "profile_image_path": "",
+        "projects": [
+            {
+                "project_id": 1,
+                "name": "Test",
+                "description": "dsadsa",
+                "tasks": [
+                    {
+                        "task_id": 1,
+                        "name": "Task1",
+                        "description": "oarecare",
+                        "priority": "HIGH",
+                        "status": "Done",
+                        "_type": "DevTask",
+                        "language": "Java"
+                    }
+                ],
+                "deadline": "dasdsa"
+            }
+        ]
+    },
+    {
+        "user_id": 9,
+        "name": "Ungureanu",
+        "surname": "Claudia",
+        "email": "claudia@gmail.com",
+        "password": "1234",
+        "profile_image_path": "data/profile_images\\8_Ungureanu_Claudia_claudia.png",
+        "projects": [
+            {
+                "project_id": 1,
+                "name": "Sarmale",
+                "description": "scoala-l pe Raul",
+                "tasks": [],
+                "deadline": "01-01-2025"
+            },
+            {
+                "project_id": 2,
+                "name": "dsadsa",
+                "description": "dsadwsa",
+                "tasks": [],
+                "deadline": "dassads"
+            }
+        ]
+    },
+    {
+        "user_id": 10,
+        "name": "Marinel",
+        "surname": "Gigel",
+        "email": "gigel@gmail.com",
+        "password": "12",
+        "profile_image_path": "data/profile_images/default.png",
+        "projects": []
+    }
+]
